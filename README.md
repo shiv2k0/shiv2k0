@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @shiv2k0
+- 🌍 I'm based in India.
 - 🌱 I’m currently learning NextJs.
 - 📫 You can contact me at shivavns00@gmail.com
 
