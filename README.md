@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shiv2k0
 - 🌍 I'm based in India.
-- 🌱 I’m currently learning NextJs.
+- 🌱 I’m currently learning GraphQL.
 - 📫 You can contact me at shivavns00@gmail.com
 
 <!---
